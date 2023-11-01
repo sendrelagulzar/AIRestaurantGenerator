@@ -1,7 +1,7 @@
-# **Project Description: New Restaurant Generator**
+# **Project Description: AI Restaurant Generator**
 
 ## **Introduction:**
-The New Restaurant Generator is a creative tool designed to assist entrepreneurs and restaurant owners in brainstorming ideas for opening a new restaurant. It leverages the power of AI, specifically OpenAI's language model, to suggest restaurant names and menu items based on the chosen cuisine. This project aims to streamline the initial planning stage of starting a restaurant business by offering creative suggestions tailored to the user's preferences.
+The AI Restaurant Generator is a creative tool designed to assist entrepreneurs and restaurant owners in brainstorming ideas for opening a new restaurant. It leverages the power of AI, specifically OpenAI's language model, to suggest restaurant names and menu items based on the chosen cuisine. This project aims to streamline the initial planning stage of starting a restaurant business by offering creative suggestions tailored to the user's preferences.
 
 ## **Project Components:**
 
